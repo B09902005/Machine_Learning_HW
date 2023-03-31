@@ -6,6 +6,7 @@ This code is about CNN. The training data is 25000 labeled pictures of human fac
 
 ## Files
 
+* **HW2.zip** : The .zip file of the dataset
 * **best_model.ipynb** : The code I train, test, and evaluate
 * **early_stop.ipynb** : The code I train, test, and evaluate with early-stopping.
 * **predict.csv** : the file of my model's prediction to the testing data
@@ -13,7 +14,7 @@ This code is about CNN. The training data is 25000 labeled pictures of human fac
 
 ## Usage
 
-Run **best_model.ipynb** on Google Colab. It will automatically download the dataset **HW2.zip** and unzip it into **data**. After training, **model.pth** will be generated, and we can use it to generate  **predict.csv**.
+Run **best_model.ipynb** on Google Colab. It will automatically download the dataset **HW2.zip** and unzip it into **data**, the training dataset and testing dataset. After training, **model.pth** will be generated, and we can use it to generate  **predict.csv**.
 
 ## What I've done    
 

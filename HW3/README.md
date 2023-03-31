@@ -12,6 +12,8 @@ To do clustering, I used **K-means clustering**.
 
 ## Files
 
+* **trainX.npy.zip** : The .zip file of the training dataset
+* **visualization_X.npy.zip** : Also the .zip file of the training dataset
 * **hw3.ipynb** : The code I train, test, and evaluate
 * **predict.csv** : my prediction to the training data
 * **report.pdf** : My report        

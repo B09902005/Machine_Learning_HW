@@ -6,6 +6,7 @@ This code is about RNN. Given 170000 sentences (**HW4_dataset/train**) on Twitte
 
 ## Files
 
+* **HW4_dataset.zip** : The .zip file of the training dataset and testing dataset.
 * **HW4_sample_code.ipynb** : The code I train, test, and evaluate
 * **SampleCode-pred.csv** : my prediction to the training data
 * **report.pdf** : My report
