@@ -1,0 +1,3 @@
+Below are the parameters of my model
+
+clf = SVC(kernel='poly', random_state=2022, verbose=2, C=0.5)
